@@ -338,7 +338,7 @@ def welcome_start(message):
     response = (
         f"🥀Welcome {user_name}!\n\n"
         " For User ID : /id \n\n"
-        "👉 Join our official channel - @BgmiDdosAttack ✅\n\n"
+        "👉 Join our official channel - https://t.me/BgmiDdosAttack ✅\n\n"
         "👑 For access: @Vaibhav_dhami"
         "👑 OWNER : @Vaibhav_dhami"
     )
